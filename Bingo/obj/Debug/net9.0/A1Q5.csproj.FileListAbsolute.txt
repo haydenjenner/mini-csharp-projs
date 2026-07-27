@@ -1,0 +1,14 @@
+C:\Users\hjenn\OneDrive - Queensland University of Technology\2025\Semester 2\CAB201\Assignment 1\A1Q5\bin\Debug\net9.0\A1Q5.exe
+C:\Users\hjenn\OneDrive - Queensland University of Technology\2025\Semester 2\CAB201\Assignment 1\A1Q5\bin\Debug\net9.0\A1Q5.deps.json
+C:\Users\hjenn\OneDrive - Queensland University of Technology\2025\Semester 2\CAB201\Assignment 1\A1Q5\bin\Debug\net9.0\A1Q5.runtimeconfig.json
+C:\Users\hjenn\OneDrive - Queensland University of Technology\2025\Semester 2\CAB201\Assignment 1\A1Q5\bin\Debug\net9.0\A1Q5.dll
+C:\Users\hjenn\OneDrive - Queensland University of Technology\2025\Semester 2\CAB201\Assignment 1\A1Q5\bin\Debug\net9.0\A1Q5.pdb
+C:\Users\hjenn\OneDrive - Queensland University of Technology\2025\Semester 2\CAB201\Assignment 1\A1Q5\obj\Debug\net9.0\A1Q5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hjenn\OneDrive - Queensland University of Technology\2025\Semester 2\CAB201\Assignment 1\A1Q5\obj\Debug\net9.0\A1Q5.AssemblyInfoInputs.cache
+C:\Users\hjenn\OneDrive - Queensland University of Technology\2025\Semester 2\CAB201\Assignment 1\A1Q5\obj\Debug\net9.0\A1Q5.AssemblyInfo.cs
+C:\Users\hjenn\OneDrive - Queensland University of Technology\2025\Semester 2\CAB201\Assignment 1\A1Q5\obj\Debug\net9.0\A1Q5.csproj.CoreCompileInputs.cache
+C:\Users\hjenn\OneDrive - Queensland University of Technology\2025\Semester 2\CAB201\Assignment 1\A1Q5\obj\Debug\net9.0\A1Q5.dll
+C:\Users\hjenn\OneDrive - Queensland University of Technology\2025\Semester 2\CAB201\Assignment 1\A1Q5\obj\Debug\net9.0\refint\A1Q5.dll
+C:\Users\hjenn\OneDrive - Queensland University of Technology\2025\Semester 2\CAB201\Assignment 1\A1Q5\obj\Debug\net9.0\A1Q5.pdb
+C:\Users\hjenn\OneDrive - Queensland University of Technology\2025\Semester 2\CAB201\Assignment 1\A1Q5\obj\Debug\net9.0\A1Q5.genruntimeconfig.cache
+C:\Users\hjenn\OneDrive - Queensland University of Technology\2025\Semester 2\CAB201\Assignment 1\A1Q5\obj\Debug\net9.0\ref\A1Q5.dll
